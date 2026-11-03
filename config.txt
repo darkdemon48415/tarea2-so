@@ -1,0 +1,4 @@
+seed 42
+delay_min_ms 50
+delay_max_ms 300
+puma_init 2 2
